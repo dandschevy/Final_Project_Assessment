@@ -1,1 +1,14 @@
-# Final_Project_Assessment
+# Final Project Assessment
+
+## Self Assessment
+During the course of the final project, I worked on several portions of the deliverables. For Segment 1, I was responsible for coming up with the original machine learning model as well portions of the README materials presented. For Segment 2, I was responsible for the creating the presentation in Google slides and working with the other team members to obtain the results of their analysis and completed work. For Segment 3, I was able to get back into modeling and test and/or update new and exiting models to see if any improvements could be made. And lastly, for Segment 4, I worked on the final model and worked with the team to finalize GITHUB and the final presentation.
+
+For the roles I was not actively involved in creating a deliverable, I did participate in the discussions related to formats of the dashboard and our data sources. I also participated in discussions of the database and the GITHUB structure. Additionally, I worked with our team to schedule time outside of class so we could discuss our project as well as finalize any outstanding items.
+
+As expected, this was a challenging assignment.  Not only were we expected to pool all of the knowledge we had obtained through the course, but also balance the final project with work and family obligations.  My biggest challenge was the time management aspect related to balancing the project deliverables with my employer demands.  In addition, there was stress related to not wanting to disappoint my teammates.  My only real answer as to how the challenges were overcome is lack of sleep and working very long hours.
+
+## Team Assessment
+I feel very lucky to have worked with my teammates.  Each person brought a strength and delivered on what we needed to complete the project.  Most of us were able to meet outside of class via Zoom, and when a teammate was unable to participate, they provided updates via Slack.  Also, I really felt supported and comfortable to ask questions of my teammates, and I believe, they felt the same.  I would definitely recommend constant communication via Slack and outside Zoom meetings. I would also recommend being kind, patient and supportive of your teammates.   
+
+## Project Summary
+The project we chose was one that would attempt to predict baseball pitcher salaries using a machine learning model.  We obtained the data from the Lahman Database and selected the years 1990 to 2016 for our project.  During the course of our analysis, we tested several models, including random forest, linear regression, neural network, polynomial regression, and multivariate linear regression.  The final model chosen was the most simple; linear regression using earned run average (ERA). With the final model, we converted the salaries to their natural log and were able to obtain a testing and training score of approximately 96%.
